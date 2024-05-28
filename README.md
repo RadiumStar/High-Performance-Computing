@@ -1,5 +1,5 @@
 # High-Performance-Computing
-SYSU High Performance Computing Courses' Notes and Laboratories
+SYSU High Performance Computing Course Notes and Laboratories
 
 中山大学高性能程序设计课程笔记及实验
 
